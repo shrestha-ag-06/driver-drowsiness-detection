@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-env/
-results/*.csv
-results/*.mp4
-results/*.avi
-.DS_Store
