@@ -1,0 +1,8 @@
+opencv-python>=4.8.0
+mediapipe>=0.10.9
+numpy>=1.24.0
+
+# Optional: only needed if you pass --alarm to play a warning sound.
+# If it fails to install on your platform, the program still runs fine
+# without it (the alarm feature is skipped with a warning).
+playsound==1.2.2
